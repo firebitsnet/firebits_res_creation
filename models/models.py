@@ -28,3 +28,7 @@ class ResourcesAccessMixin(models.AbstractModel):
 class ProductTemplateAccess(models.Model):
     _name = 'product.template'
     _inherit = ['product.template', 'res.firebits.mixin']
+
+class ResPartnerAccess(models.Model):
+    _name = 'res.partner'
+    _inherit = ['res.partner', 'res.firebits.mixin']
