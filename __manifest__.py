@@ -14,7 +14,7 @@
         'product'
     ],
     'data': [
-        'views/view.xml',
+        'security/groups.xml',
     ],
     'installable': True,
     'application': True,
