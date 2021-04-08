@@ -1,4 +1,5 @@
 from odoo import models,fields,api,_
+from odoo.exceptions import AccessError
 
 hq_warnning = _(""" 
 The HQ or your manager has stoped the resources creation at this moment. 
