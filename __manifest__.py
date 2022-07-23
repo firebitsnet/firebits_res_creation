@@ -1,5 +1,11 @@
 {
     'name': 'FireBits Resources Creation',
+    'images': [
+        'static/description/screenshot1.png',
+        'static/description/screenshot2.png',
+        'static/description/screenshot3.png',
+        'static/description/main_screenshot.png',
+    ],
     'version': '13.0.0.1',
     'summary': 'Limit creation access for partners and products to specific users',
     'description': '''
