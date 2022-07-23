@@ -1,5 +1,5 @@
 {
-    'name': 'FireBits Resources Creation',
+    'name': 'Limit resources creation access',
     'images': [
         'static/description/screenshot1.png',
         'static/description/screenshot2.png',
@@ -19,7 +19,7 @@
     'support': 'support@firebits.net',
     'sequence':-52,
     'website': 'https://firebits.net',
-    'live_test_url': 'https://www.youtube.com/watch?v=Qu6R3yNKR60',
+    'live_test_url': 'https://www.youtube.com/firebits',
     'demo': [],
     'depends': [
         'base',
